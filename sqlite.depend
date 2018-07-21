@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526004541 source:f:\fenghl\c_and_pointer\sqlite\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1523383067 f:\fenghl\c_and_pointer\sqlite\sqlite3.h
+	<stdarg.h>
+
